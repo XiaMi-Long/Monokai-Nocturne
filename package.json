@@ -1,15 +1,15 @@
 {
-  "name": "monokai-night",
-  "displayName": "Monokai Night",
+  "name": "monokai-nocturne",
+  "displayName": "Monokai Nocturne",
   "description": "根据Monokai主题修改的主题",
-  "icon": "./icon/icon.png",
+  "icon": "./icon/logo.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.21.0"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:XiaMi-Long/Monokai-Theme.git"
+    "url": "https://github.com/XiaMi-Long/Monokai-Nocturne"
   },
   "publisher": "wwy",
   "categories": [
@@ -18,14 +18,15 @@
   "keywords": [
     "++",
     "plus",
-    "Monokai"
+    "Monokai Nocturne",
+    "Nocturne"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "Monokai Night",
+        "label": "Monokai Nocturne",
         "uiTheme": "vs-dark",
-        "path": "./themes/Monokai Night-color-theme.json"
+        "path": "./themes/Monokai Nocturne-color-theme.json.json"
       }
     ]
   }

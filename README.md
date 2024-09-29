@@ -1,4 +1,4 @@
-# Monokai++
+# Monokai Nocturne
 
 根据 Monokai 主题修改的主题, 主要是增加了深色的占比,同时对按钮的主题色等操作,更换为明显的提示色.
 
