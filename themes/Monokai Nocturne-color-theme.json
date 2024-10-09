@@ -2,29 +2,30 @@
 	// 红色- #ff304f
 	"name": "luoqixi",
 	"colors": {
-		"sideBar.background": "#252424",
+		// "editorHoverWidget.background": "#47bce6",
+		// "sideBar.background": "#252424",
 		// 最左侧活动栏-背景颜色
-		"activityBar.background": "#000000",
+		// "activityBar.background": "#000000",
 		// 最左侧活动栏-图标和文本颜色
-		"activityBar.foreground": "#fff",
+		// "activityBar.foreground": "#fff",
 		// 最左侧活动栏-被选中项的背景颜色
-		"activityBar.activeBackground": "#3794ff52",
+		// "activityBar.activeBackground": "#3794ff52",
 		// 类似插件栏中的小徽章背景颜色
-		"badge.background": "#ff304f",
+		// "badge.background": "#ff304f",
 		// 小徽章的底色
-		"badge.foreground": "#f8f8f2",
+		// "badge.foreground": "#f8f8f2",
 		// 所有系统的按钮控件背景颜色
-		"button.background": "#ff304f",
+		// "button.background": "#ff304f",
 		// debug控件的背景颜色
-		"debugToolBar.background": "#000",
+		// "debugToolBar.background": "#000",
 		// 边框颜色
-		"debugToolBar.border": "#f14c4c8a",
+		// "debugToolBar.border": "#f14c4c8a",
 		// git diff修改和新增的背景色
 		"diffEditor.insertedTextBackground": "#83e85a30",
 		"diffEditor.removedTextBackground": "#ff304f30",
 		// 设置中的下拉框样式
-		"dropdown.background": "#f9267240",
-		"dropdown.listBackground": "#1e1f1c",
+		// "dropdown.background": "#f9267240",
+		// "dropdown.listBackground": "#1e1f1c",
 		// 代码编辑-背景颜色
 		"editor.background": "#252424",
 		// 代码编辑-搜索到的搜索项背景颜色
@@ -46,6 +47,7 @@
 		"editorGroup.dropBackground": "#41433980",
 		"editorGroupHeader.tabsBackground": "#1e1f1c",
 		"editorHoverWidget.background": "#414339",
+		"editorSuggestWidget.highlightForeground": "#47bce6",
 		"editorHoverWidget.border": "#75715e",
 		"editorIndentGuide.activeBackground1": "#767771",
 		"editorIndentGuide.background1": "#464741",
@@ -101,7 +103,7 @@
 		"statusBarItem.remoteBackground": "#ac6218",
 		// "extensionButton.prominentForeground": "ff304f",
 		// 文件选项卡区域
-		"tab.activeBackground": "#183c43",
+		"tab.activeBackground": "#1c1c1b",
 		"tab.border": "#1e1f1c",
 		"tab.inactiveBackground": "#252424",
 		"tab.inactiveForeground": "#ccccc7",
@@ -123,7 +125,7 @@
 		"terminal.ansiWhite": "#e3e3dd",
 		"terminal.ansiYellow": "#b3b42b",
 		"titleBar.activeBackground": "#1e1f1c",
-		"toolbar.hoverBackground": "#ff9933",
+		// "toolbar.hoverBackground": "#ff9933",
 		"widget.shadow": "#00000098",
 		//"actionBar.toggledBackground": "#99947c66",
 		//"activityBar.activeBorder": "#f8f8f2",

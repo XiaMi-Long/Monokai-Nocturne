@@ -3,7 +3,7 @@
   "displayName": "Monokai Nocturne",
   "description": "根据Monokai主题修改的主题",
   "icon": "./icon/logo.png",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.21.0"
   },
@@ -26,7 +26,7 @@
       {
         "label": "Monokai Nocturne",
         "uiTheme": "vs-dark",
-        "path": "./themes/Monokai Nocturne-color-theme.json.json"
+        "path": "./themes/Monokai Nocturne-color-theme.json"
       }
     ]
   }

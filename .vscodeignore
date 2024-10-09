@@ -12,5 +12,6 @@ vsc-extension-quickstart.md
 **/*.ts
 
 !dist/**
+images/**
 
 
